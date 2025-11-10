@@ -1,4 +1,4 @@
-//OBJECTS - MANIPULATING
+//OBJECTS - Handling
 
 const product = {
     nameProduct: "Tablet",
